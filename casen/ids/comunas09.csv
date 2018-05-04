@@ -1,0 +1,335 @@
+comuna_casen_id,comuna_name,comuna_datachile_id
+3102,caldera,21
+1101,iquique,113
+3103,tierra amarilla,317
+3202,diego de almagro,81
+4102,coquimbo,69
+4103,andacollo,7
+4104,la higuera,122
+4106,vicua,334
+5101,valparaso,331
+5105,puchuncav,229
+5107,quintero,257
+5109,via del mar,339
+5301,los andes,151
+5302,calle larga,24
+5403,papudo,202
+5506,nogales,183
+5602,algarrobo,1
+5603,cartagena,30
+5604,el quisco,86
+5605,el tabo,87
+6103,coinco,56
+6105,doihue,82
+6113,pichidegua,218
+6114,quinta de tilcoco,255
+6117,san vicente,302
+6307,peralillo,213
+6308,placilla,223
+7101,talca,311
+7107,pencahue,209
+7108,ro claro,270
+7109,san clemente,282
+7110,san rafael,299
+7301,curic,79
+7305,rauco,261
+7402,colbn,57
+7408,yerbas buenas,341
+8101,concepcin,64
+8203,caete,28
+8301,los ngeles,152
+8302,antuco,10
+8309,quilleco,250
+8310,san rosendo,301
+8405,coihueco,55
+8407,el carmen,84
+8409,iqun,185
+8410,pemuco,208
+8411,pinto,220
+8416,san carlos,281
+9106,galvarino,98
+9110,melipeuco,171
+9117,teodoro schmidt,316
+9118,toltn,322
+9201,angol,8
+9204,ercilla,89
+9206,los sauces,155
+9209,renaico,263
+9210,traigun,326
+10106,los muermos,154
+10202,ancud,6
+10209,quemchi,247
+10301,osorno,191
+10304,puyehue,244
+10402,futaleuf,96
+11201,aysn,13
+11202,cisnes,48
+11401,chile chico,42
+11402,ro ibez,272
+12104,san gregorio,287
+12201,cabo de hornos,17
+1107,alto hospicio,5
+13123,providencia,228
+13202,pirque,221
+13401,san bernardo,280
+13403,calera de tango,23
+13404,paine,197
+15102,camarones,25
+15201,putre,243
+10403,hualaihu,104
+2101,antofagasta,9
+2102,mejillones,170
+2104,taltal,313
+2201,calama,19
+2301,tocopilla,321
+2302,mara elena,165
+3101,copiap,68
+3301,vallenar,330
+3303,freirina,93
+3304,huasco,109
+4101,la serena,126
+4203,los vilos,156
+4204,salamanca,278
+4301,ovalle,192
+4302,combarbal,62
+4303,monte patria,174
+5102,casablanca,31
+5103,con cn,63
+5106,quilpu,253
+5108,villa alemana,337
+5303,rinconada,268
+5304,san esteban,283
+5501,quillota,252
+5502,calera,22
+5503,hijuelas,103
+5504,la cruz,118
+5505,limache,138
+5507,olmu,190
+5601,san antonio,279
+5701,san felipe,285
+5703,llay llay,142
+5706,santa mara,306
+6101,rancagua,259
+6106,graneros,101
+6108,machal,159
+6111,olivar,188
+6115,rengo,265
+6203,litueche,140
+6301,san fernando,286
+6303,chimbarongo,45
+6305,nancagua,178
+6310,santa cruz,304
+7102,constitucin,66
+7201,cauquenes,34
+7302,huala,105
+7304,molina,173
+7308,teno,315
+7401,linares,139
+7403,longav,148
+7406,san javier,289
+7407,villa alegre,336
+8102,coronel,70
+8103,chiguayante,41
+8104,florida,91
+8105,hualqui,107
+8106,lota,157
+8107,penco,210
+8108,san pedro de la paz,298
+8109,santa juana,305
+8110,talcahuano,312
+8111,tom,323
+8112,hualpn,106
+8201,lebu,136
+8206,los lamos,150
+8303,cabrero,18
+8304,laja,131
+8305,mulchn,176
+8306,nacimiento,177
+8313,yumbel,342
+8401,chilln,43
+8406,chilln viejo,44
+9101,temuco,314
+9103,cunco,72
+9105,freire,92
+9107,gorbea,100
+9109,loncoche,147
+9111,nueva imperial,184
+9112,padre las casas,194
+9120,villarrica,338
+9203,curacautn,73
+9208,purn,240
+9211,victoria,333
+10101,puerto montt,233
+10102,calbuco,20
+10105,frutillar,95
+10107,llanquihue,141
+10201,castro,32
+10208,quelln,246
+11101,coihaique,54
+12101,punta arenas,238
+12401,natales,179
+13101,santiago,307
+13102,cerrillos,35
+13103,cerro navia,36
+13104,conchal,65
+13105,el bosque,83
+13106,estacin central,90
+13107,huechuraba,110
+13108,independencia,112
+13109,la cisterna,117
+13110,la florida,120
+13111,la granja,121
+13112,la pintana,124
+13113,la reina,125
+13114,las condes,134
+13115,lo barnechea,143
+13116,lo espejo,144
+13117,lo prado,145
+13118,macul,160
+13119,maip,162
+13120,uoa,186
+13121,pedro aguirre cerda,205
+13122,pealoln,212
+13124,pudahuel,231
+13125,quilicura,249
+13126,quinta normal,256
+13127,recoleta,262
+13128,renca,264
+13129,san joaqun,290
+13130,san miguel,293
+13131,san ramn,300
+13132,vitacura,340
+13201,puente alto,232
+13301,colina,59
+13302,lampa,346
+13303,til-til,318
+13402,buin,14
+13501,melipilla,172
+13503,curacav,74
+13601,talagante,310
+13602,el monte,85
+14101,valdivia,329
+14103,lanco,132
+14107,paillaco,196
+14201,la unin,127
+14202,futrono,97
+14204,ro bueno,269
+15101,arica,12
+1402,camia,26
+1404,huara,108
+3201,chaaral,39
+3302,alto del carmen,4
+4105,paihuano,195
+4201,illapel,111
+4304,punitaqui,237
+4305,ro hurtado,271
+5401,la ligua,123
+5402,cabildo,16
+5404,petorca,215
+5606,santo domingo,308
+5702,catemu,33
+5704,panquehue,201
+6104,coltauco,61
+6107,las cabras,133
+6110,san francisco de mostazal,175
+6116,requnoa,266
+6202,la estrella,119
+6204,marchige,164
+6302,chpica,40
+6304,lolol,146
+6306,palmilla,199
+6309,pumanque,236
+7105,maule,168
+7106,pelarco,206
+7202,chanco,38
+7303,licantn,137
+7307,sagrada familia,277
+7309,vichuqun,332
+7404,parral,204
+8205,curanilahue,76
+8307,negrete,181
+8312,tucapel,328
+8314,alto bo bo,3
+8402,bulnes,15
+8413,quilln,251
+8419,san nicols,294
+8420,trehuaco,327
+9102,carahue,29
+9104,curarrehue,77
+9108,lautaro,135
+9114,pitrufqun,222
+9116,saavedra,276
+9119,vilcn,335
+9202,collipulli,60
+9205,lonquimay,149
+9207,lumaco,158
+10104,fresia,94
+10108,maulln,169
+10207,queiln,245
+10210,quinchao,254
+10302,puerto octay,234
+10303,purranque,241
+10305,ro negro,273
+10306,san juan de la costa,292
+10307,san pablo,295
+12301,porvenir,225
+13203,san jos de maipo,291
+13505,san pedro,296
+13604,padre hurtado,193
+13605,peaflor,211
+14104,los lagos,153
+14108,panguipulli,200
+1401,pozo almonte,226
+1403,colchane,58
+1405,pica,217
+2103,sierra gorda,309
+2203,san pedro de atacama,297
+4202,canela,27
+5405,zapallar,344
+5705,putaendo,242
+6102,codegua,52
+6112,peumo,216
+6201,pichilemu,219
+6205,navidad,180
+6206,paredones,203
+7103,curepto,78
+7104,empedrado,88
+7203,pelluhue,207
+7306,romeral,275
+7405,retiro,267
+8202,arauco,11
+8204,contulmo,67
+8207,tira,320
+8308,quilaco,248
+8311,santa brbara,303
+8403,cobquecura,49
+8404,coelemu,53
+8412,portezuelo,224
+8414,quirihue,258
+8415,rnquil,260
+8417,san fabin,284
+8418,san ignacio,288
+8421,yungay,343
+9113,perquenco,214
+9115,pucn,230
+9121,cholchol,46
+10103,cocham,50
+10109,puerto varas,235
+10203,chonchi,47
+10204,curaco de vlez,75
+10205,dalcahue,80
+10404,palena,198
+11301,cochrane,51
+12302,primavera,227
+13502,alhu,2
+13504,mara pinto,166
+14102,corral,71
+14105,mfil,161
+14106,mariquina,167
+14203,lago ranco,128
+6109,malloa,163
+10206,puqueldn,239
+8408,ninhue,182
+13603,isla de maipo,114
+15202,general lagos,99
+2202,ollague,189

@@ -9,6 +9,7 @@
 *.zip
 *.rar
 *.sqlite
+*.xls
 *.xlsx
 *.sav
 psu/*/*.csv

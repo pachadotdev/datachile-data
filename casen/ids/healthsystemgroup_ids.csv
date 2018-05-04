@@ -1,0 +1,12 @@
+health_system_group,health_system_id,health_system_group_id
+Fonasa,1,1
+Fonasa,2,1
+Fonasa,3,1
+Fonasa,4,1
+Fonasa,5,1
+"Fuerzas Armadas, de Orden y Seguridad Pública",6,2
+Isapre,7,3
+Ninguno,8,4
+Otro sistema,9,5
+No sabe,10,6
+NaN,,

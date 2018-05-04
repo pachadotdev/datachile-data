@@ -1,0 +1,12 @@
+health_system,health_system_id,s1_00_03,s1_06_09,s17_11,s14_13,s12_15
+Fonasa A,1,0,1,1,1,1
+Fonasa B,2,1,2,2,2,2
+Fonasa C,3,2,3,3,3,3
+Fonasa D,4,3,4,4,4,4
+Fonasa (no sabe grupo),5,4,5,5,5,5
+"Fuerzas Armadas, de Orden y Seguridad Pública",6,5,6,6,6,6
+Isapre,7,6,7,7,7,7
+Ninguno,8,7,8,8,8,8
+Otro sistema,9,8,9,9,9,9
+No sabe,10,9,99,99,99,99
+NaN,,,,,,

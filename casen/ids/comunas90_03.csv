@@ -1,0 +1,324 @@
+comuna_casen_id,comuna_name,comuna_datachile_id
+5605,algarrobo,1
+13504,alhu,2
+3304,alto del carmen,4
+1307,alto hospicio,5
+10402,ancud,6
+4104,andacollo,7
+9101,angol,8
+2301,antofagasta,9
+8204,antuco,10
+8402,arauco,11
+1101,arica,12
+13402,buin,14
+8111,bulnes,15
+5103,cabildo,16
+8202,cabrero,18
+8405,caete,28
+2201,calama,19
+10304,calbuco,20
+3202,caldera,21
+5403,calera,22
+13404,calera de tango,23
+5203,calle larga,24
+1102,camarones,25
+1303,camia,26
+4304,canela,27
+9217,carahue,29
+5602,cartagena,30
+5507,casablanca,31
+10401,castro,32
+5306,catemu,33
+7401,cauquenes,34
+13125,cerrillos,35
+13130,cerro navia,36
+3101,chaaral,39
+10501,chaitn,37
+7403,chanco,38
+8311,chiguayante,41
+11301,chile chico,42
+8101,chilln,43
+8121,chilln viejo,44
+6202,chimbarongo,45
+10408,chonchi,47
+6205,chpica,40
+11202,cisnes,48
+8117,cobquecura,49
+10303,cocham,50
+11401,cochrane,51
+6104,codegua,52
+8115,coelemu,53
+8105,coihueco,55
+7303,colbn,57
+1304,colchane,58
+13201,colina,59
+9103,collipulli,60
+6114,coltauco,61
+4204,combarbal,62
+8301,concepcin,64
+13103,conchal,65
+5509,con cn,63
+7208,constitucin,66
+8406,contulmo,67
+3201,copiap,68
+4103,coquimbo,69
+8309,coronel,70
+10106,corral,71
+11101,coihaique,54
+9205,cunco,72
+9105,curacautn,73
+13503,curacav,74
+10405,curaco de vlez,75
+8403,curanilahue,76
+9207,curarrehue,77
+7209,curepto,78
+7101,curic,79
+10404,dalcahue,80
+3102,diego de almagro,81
+6116,doihue,82
+13121,el bosque,83
+8108,el carmen,84
+13604,el monte,85
+5604,el quisco,86
+5603,el tabo,87
+7206,empedrado,88
+9106,ercilla,89
+13124,estacin central,90
+8305,florida,91
+9210,freire,92
+3302,freirina,93
+10307,fresia,94
+10309,frutillar,95
+10105,futrono,97
+9219,galvarino,98
+1202,general lagos,99
+9212,gorbea,100
+6102,graneros,101
+5405,hijuelas,103
+7106,huala,105
+10502,hualaihu,104
+8306,hualqui,107
+1302,huara,108
+3303,huasco,109
+13104,huechuraba,110
+4301,illapel,111
+9218,nueva imperial,184
+13102,independencia,112
+1301,iquique,113
+8103,iqun,185
+13603,isla de maipo,114
+5701,isla de pascua,115
+13120,la cisterna,117
+5402,la cruz,118
+6304,la estrella,119
+13114,la florida,120
+13116,la granja,121
+4102,la higuera,122
+5101,la ligua,123
+13117,la pintana,124
+13111,la reina,125
+4101,la serena,126
+10109,la unin,127
+10112,lago ranco,128
+8211,laja,131
+13202,lampa,346
+10103,lanco,132
+13109,las condes,134
+9202,lautaro,135
+8401,lebu,136
+7107,licantn,137
+5406,limache,138
+7301,linares,139
+6303,litueche,140
+5305,llay llay,142
+10308,llanquihue,141
+13108,lo barnechea,143
+13123,lo espejo,144
+13128,lo prado,145
+6207,lolol,146
+9213,loncoche,147
+7304,longav,148
+9104,lonquimay,149
+8404,los lamos,150
+5201,los andes,151
+8201,los ngeles,152
+10104,los lagos,153
+10306,los muermos,154
+9111,los sauces,155
+4303,los vilos,156
+8308,lota,157
+9109,lumaco,158
+6105,machal,159
+13112,macul,160
+13126,maip,162
+6109,malloa,163
+2102,mara elena,165
+13502,mara pinto,166
+6305,marchige,164
+10102,mariquina,167
+7205,maule,168
+10305,maulln,169
+2302,mejillones,170
+9206,melipeuco,171
+13501,melipilla,172
+10107,mfil,161
+7104,molina,173
+4203,monte patria,174
+6103,san francisco de mostazal,175
+8208,mulchn,176
+8210,nacimiento,177
+6204,nancagua,178
+12101,natales,179
+6302,navidad,180
+8209,negrete,181
+8119,ninhue,182
+5404,nogales,183
+6106,olivar,188
+5407,olmu,190
+10201,osorno,191
+4201,ovalle,192
+13605,padre hurtado,193
+9220,padre las casas,194
+4106,paihuano,195
+10110,paillaco,196
+13403,paine,197
+10108,panguipulli,200
+5304,panquehue,201
+5105,papudo,202
+6306,paredones,203
+7305,parral,204
+13602,peaflor,211
+13113,pealoln,212
+13122,pedro aguirre cerda,205
+7202,pelarco,206
+7402,pelluhue,207
+8110,pemuco,208
+7207,pencahue,209
+8303,penco,210
+6210,peralillo,213
+9203,perquenco,214
+5102,petorca,215
+6113,peumo,216
+1305,pica,217
+6112,pichidegua,218
+6301,pichilemu,219
+8106,pinto,220
+13303,pirque,221
+9211,pitrufqun,222
+6203,placilla,223
+8114,portezuelo,224
+12301,porvenir,225
+1306,pozo almonte,226
+13106,providencia,228
+5504,puchuncav,229
+9208,pucn,230
+13129,pudahuel,231
+13301,puente alto,232
+11201,aysn,13
+10301,puerto montt,233
+10204,puerto octay,234
+10302,puerto varas,235
+4205,punitaqui,237
+12201,punta arenas,238
+10407,puqueldn,239
+9110,purn,240
+10205,purranque,241
+5302,putaendo,242
+1201,putre,243
+10203,puyehue,244
+10409,queiln,245
+10410,quelln,246
+10403,quemchi,247
+8207,quilaco,248
+13132,quilicura,249
+8205,quilleco,250
+8112,quilln,251
+5401,quillota,252
+5505,quilpu,253
+10406,quinchao,254
+6110,quinta de tilcoco,255
+13127,quinta normal,256
+5503,quintero,257
+8118,quirihue,258
+6101,rancagua,259
+7109,rauco,261
+13105,recoleta,262
+9102,renaico,263
+13131,renca,264
+6108,rengo,265
+6107,requnoa,266
+7306,retiro,267
+5204,rinconada,268
+8113,rnquil,260
+10111,ro bueno,269
+7203,ro claro,270
+4202,ro hurtado,271
+11302,ro ibez,272
+10206,ro negro,273
+7103,romeral,275
+9216,saavedra,276
+7105,sagrada familia,277
+4302,salamanca,278
+5601,san antonio,279
+13401,san bernardo,280
+8102,san carlos,281
+7204,san clemente,282
+5202,san esteban,283
+8104,san fabin,284
+5301,san felipe,285
+6201,san fernando,286
+8107,san ignacio,288
+7308,san javier,289
+13115,san joaqun,290
+13302,san jos de maipo,291
+10207,san juan de la costa,292
+13119,san miguel,293
+8120,san nicols,294
+10202,san pablo,295
+13505,san pedro,296
+2203,san pedro de atacama,297
+8310,san pedro de la paz,298
+7210,san rafael,299
+13118,san ramn,300
+8212,san rosendo,301
+6111,san vicente,302
+8206,santa brbara,303
+6206,santa cruz,304
+8307,santa juana,305
+5303,santa mara,306
+13101,santiago,307
+5606,santo domingo,308
+2303,sierra gorda,309
+13601,talagante,310
+7201,talca,311
+8302,talcahuano,312
+2304,taltal,313
+9201,temuco,314
+7102,teno,315
+9215,teodoro schmidt,316
+3203,tierra amarilla,317
+13203,til-til,318
+8407,tira,320
+2101,tocopilla,321
+9214,toltn,322
+8304,tom,323
+9108,traigun,326
+8116,trehuaco,327
+8203,tucapel,328
+13110,uoa,186
+10101,valdivia,329
+3301,vallenar,330
+5501,valparaso,331
+5502,via del mar,339
+7108,vichuqun,332
+9107,victoria,333
+4105,vicua,334
+9204,vilcn,335
+7307,villa alegre,336
+5506,villa alemana,337
+9209,villarrica,338
+13107,vitacura,340
+7302,yerbas buenas,341
+8213,yumbel,342
+8109,yungay,343
+5104,zapallar,344
