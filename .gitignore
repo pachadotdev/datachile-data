@@ -1,0 +1,15 @@
+.Rproj.user/
+.httr-oauth
+.Rhistory
+.Ruserdata
+.Rapp.history
+*.RData
+*.pdf
+*.db
+*.zip
+*.rar
+*.sqlite
+*.xlsx
+*.sav
+psu/*/*.csv
+elecciones/datos-semi-procesados/*
