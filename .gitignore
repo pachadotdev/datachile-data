@@ -14,3 +14,4 @@
 *.sav
 psu/*/*.csv
 elecciones/datos-semi-procesados/*
+.Rproj.user
